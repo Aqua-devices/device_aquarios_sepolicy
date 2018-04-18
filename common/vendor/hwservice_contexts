@@ -1,1 +1,1 @@
-vendor.lineage.power::ILineagePower      u:object_r:hal_lineage_power_hwservice:s0
+vendor.aquarios.power::ILineagePower      u:object_r:hal_aquarios_power_hwservice:s0
